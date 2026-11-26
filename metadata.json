@@ -1,0 +1,6 @@
+{
+  "name": "Perpustakaan Rona Rasa",
+  "description": "Ruang perpustakaan digital independen yang mengarsipkan, memperkenalkan, dan menyediakan akses terhadap karya sastra, puisi, film, dan musik budaya Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
